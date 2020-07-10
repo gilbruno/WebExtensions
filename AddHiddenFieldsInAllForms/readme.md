@@ -1,7 +1,7 @@
-# Example of a web extension that add hidden field on a form to prevent from CSRF attacks
+# Example of a web extension that add hidden field on a all forms of your web app
 
 ## Description
-To implement a CSRF token you have to add an hidden field to POST your CSRF Token on ALL the forms of your app.
+Sometimes with old legacy code, it is hard to add an hidden field on all your forms of your webapps
 It can be a huge work !
 Why not add dynamically the input hidden field with a browser extension ?
 
